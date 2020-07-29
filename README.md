@@ -1,4 +1,4 @@
-### [dijo Hola 👋... y adiós 👋](https://www.youtube.com/watch?v=kutJrfGCN8s)
+### [Dijo Hola 👋... y adiós 👋](https://youtu.be/kutJrfGCN8s?t=153)
 
 <!--
 **delacruz-dev/delacruz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
